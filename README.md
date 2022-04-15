@@ -9,9 +9,9 @@
 ```javascript 
 const yolu = {
   pronouns: "she" | "her",
-  code: [C++,HTML, CSS, Javascript, JAVA],
+  code: [ C++, HTML, CSS, Javascript, JAVA ],
   position:Taiwan,
-  language: [Chinese, Taiwanese, English, German, Thai],
+  language: [ Chinese, Taiwanese, English, German, Thai ],
   Dream: "Combining my totem with  programming language!",
   challenge: "No coding challenge! Just do everything I like and love life created by me."
 }
